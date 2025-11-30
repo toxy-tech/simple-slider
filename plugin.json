@@ -1,0 +1,10 @@
+{
+    "id": "toxy-tech/simple-slider",
+    "name": "Simple Slider",
+    "namespace": "ToxyTech\\SimpleSlider\\",
+    "provider": "ToxyTech\\SimpleSlider\\Providers\\SimpleSliderServiceProvider",
+    "author": "ToxyTech Technologies",
+    "url": "https://toxytech.com",
+    "version": "2.0.3",
+    "description": "A plugin to create sliders"
+}
